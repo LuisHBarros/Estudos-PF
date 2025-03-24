@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contabilidade/1 Conceitos básicos da Contabilidade.md",
-                "mode": "preview",
+                "file": "Português/4.0 Sintaxe - Período Composto.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Conceitos básicos da Contabilidade"
+              "title": "4.0 Sintaxe - Período Composto"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contabilidade/Conceitos básicos da Contabilidade.md",
+                "file": "Português/4.0 Sintaxe - Período Composto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Conceitos básicos da Contabilidade"
+              "title": "Outline of 4.0 Sintaxe - Período Composto"
             }
           },
           {
@@ -172,11 +172,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,6 +197,9 @@
   "lastOpenFiles": [
     "Português/Morfologia.md",
     "Português/Ortografia.md",
+    "2025-03-24.md",
+    "Português/4.0 Sintaxe - Período Composto.md",
+    "Contabilidade/1 Conceitos básicos da Contabilidade.md",
     "Português/Língua Portuguesa.md",
     "Raciocínio Lógico/Proposições lógicas.md",
     "Raciocínio Lógico/Lógica de argumentação.md",
@@ -203,7 +207,6 @@
     "Raciocínio Lógico/Drawing 2025-03-22 10.30.47.excalidraw.md",
     "Raciocínio Lógico/Diagramas lógicos.md",
     "2025-03-23.md",
-    "Contabilidade/1 Conceitos básicos da Contabilidade.md",
     "Excalidraw/Drawing 2025-03-23 08.29.46.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2025-03-22 14.20.54.excalidraw.md",

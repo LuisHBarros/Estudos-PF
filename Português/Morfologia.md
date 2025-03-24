@@ -1,15 +1,15 @@
-| **Grupo**             | **Classe Gramatical**       | **Tipo**                        |
-|-----------------------|---------------------------|---------------------------------|
-| **Grupo dos Nomes**   | Substantivo               | Aberta                          |
-|                       | Artigo                    | Fechada                         |
-|                       | Adjetivo                  | Com locução                     |
-|                       | Numeral                   | Aberta                          |
-|                       | Pronome                   | Fechada                         |
-| **Grupo dos Verbos**  | Verbo                     | Com locução                     |
-|                       | Advérbio                  | Com locução                     |
-| **Grupo dos Conectores** | Preposição               | Fechada, com locução            |
-|                       | Conjunção                 | Fechada, com locução            |
-| **Grupo das Emoções** | Interjeição               | Aberta                          |
+| **Grupo**                | **Classe Gramatical** | **Tipo**             |
+| ------------------------ | --------------------- | -------------------- |
+| **Grupo dos Nomes**      | Substantivo           | Aberta               |
+|                          | Artigo                | Fechada              |
+|                          | Adjetivo              | Com locução          |
+|                          | Numeral               | Aberta               |
+|                          | Pronome               | Fechada              |
+| **Grupo dos Verbos**     | Verbo                 | Com locução          |
+|                          | Advérbio              | Com locução          |
+| **Grupo dos Conectores** | Preposição            | Fechada, com locução |
+|                          | Conjunção             | Fechada, com locução |
+| **Grupo das Emoções**    | Interjeição           | Aberta               |
 
 
 ### Ordem de análise de orações:

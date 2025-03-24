@@ -42,6 +42,7 @@ Existem várias formas da contabilidade disponibilizar essas informações, como
 Dito isso, o que está sendo muito cobrado pelas bancas é que:
 	"O objetivo da contabilidade é o controle patrimonial e a finalidade é o fornecimento de informações"
 Apesar de não estar de acordo com as escolas americana e internacional...
+<!--SR:!2000-01-01,1,250!2025-03-24,1,238-->
 
 ## 1.4 Finalidade da contabilidade
 A finalidade da contabilidade está relaciona da com o controle do patrimônio e da sua evolução, ou seja, com o processo contábil.
@@ -75,6 +76,7 @@ Para conseguir executar as suas funções, a contabilidade possui algumas técni
 
 
 ## Flashcards
+
 
 #flashcards/contabilidade/conceitosbasicos
 O que é o mecanismo de partidas dobradas?::É o princípio que todo débito possui um crédito correspondente.
